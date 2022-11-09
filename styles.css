@@ -1,0 +1,45 @@
+a:hover {
+    font-family: fantasy;
+    color:navy;
+
+}
+a:visited {
+    font-family: 'Times New Roman', Times, serif;
+    color:salmon;
+}
+.mozzarella,
+.pizzadough,
+.oil,
+.pizzasauce,
+.parmesan,
+.pepperoni {
+    font-size: large;
+    font-family: Arial;
+
+}
+.pizzadough {
+    color:#d49b17;
+}
+.mozzarella {
+  color: rgb(175, 163, 163);  
+}
+.oil {
+    color:#dfd855;
+}
+.pizzasauce {
+    color:#bb2a0f;
+}
+.pepperoni {
+    color:#aa4400;
+}
+.parmesan {
+    color:#fae1a8;
+}
+img {
+    border-radius: 25px;
+
+}
+.recipes {
+    font-weight:700;
+    font-family:sans-serif;
+}
