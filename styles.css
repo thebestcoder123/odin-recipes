@@ -12,7 +12,18 @@ a:visited {
 .oil,
 .pizzasauce,
 .parmesan,
-.pepperoni {
+.pepperoni,
+.milk,
+.chocolate,
+.candycanes,
+.whippedcream,
+.seaweed,
+.rice,
+.salmon,
+.creamcheese,
+.avocado,
+.soysauce
+{
     font-size: large;
     font-family: Arial;
 
@@ -30,7 +41,7 @@ a:visited {
     color:#bb2a0f;
 }
 .pepperoni {
-    color:#aa4400;
+    color:#d44e2a;
 }
 .parmesan {
     color:#fae1a8;
@@ -42,4 +53,34 @@ img {
 .recipes {
     font-weight:700;
     font-family:sans-serif;
+}
+.milk {
+    color:#fdfff5
+}
+.chocolate {
+    color:#7b3f00
+}
+.whippedcream {
+    color:#f7f3f1
+}
+.candycanes {
+    color:#c34a51
+}
+.seaweed {
+    color:#54764b
+}
+.rice {
+    color:#f6f8ed
+}
+.salmon {
+    color:#fa8072
+}
+.avocado {
+    color:#568203
+}
+.creamcheese {
+    color:#f4f0e2
+}
+.soysauce {
+    color:#7e5c49
 }
